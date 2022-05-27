@@ -1,5 +1,7 @@
 {
-  "name": "Heroku-v2ray",
+  "name": "
+zhzl
+",
   "description": "将v2ray部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
@@ -21,8 +23,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/us234/v2ray-cat",
-  "repository": "https://github.com/us234/v2ray-cat",
+  "website": "https://github.com/qqyscyi/zhzl",
+  "repository": "https://github.com/qqyscyi/zhzl",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
